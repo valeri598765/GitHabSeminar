@@ -3,3 +3,5 @@
 > *git init* - инициализация локального репозитория
 
 > *git status* - получить информацию от git о его текущем состоянии
+
+![alt text](https://avatars.mds.yandex.net/i?id=bcda46264a107dee9045dafc45ef118015982df2-8232950-images-thumbs&n=13)
