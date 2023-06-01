@@ -23,6 +23,4 @@
 
 > **git checkout** <creating_branch> – переход к другой ветке
 
-> **git log --oneline** – коротенький журнал
-
-> *git branch* – посмотреть список веток в репозитории
+> *git log --oneline* – коротенький журнал
