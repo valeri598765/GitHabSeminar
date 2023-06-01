@@ -21,8 +21,7 @@
 
 > *git branch [branch_name]* - создали ветку под названием branch_name
 
-<<<<<<< HEAD
-> **git checkout <branch_name>** - переход к другой ветке
-=======
 > **git checkout** <creating_branch> – переход к другой ветке
->>>>>>> creating_branch
+
+> **git log --oneline** – коротенький журнал
+
