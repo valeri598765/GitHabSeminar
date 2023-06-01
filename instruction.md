@@ -23,4 +23,8 @@
 
 > **git checkout** <creating_branch> – переход к другой ветке
 
+<<<<<<< HEAD
 > **git log --oneline** – коротенький журнал
+=======
+> *git log --oneline* – коротенький журнал
+>>>>>>> creating_branch
