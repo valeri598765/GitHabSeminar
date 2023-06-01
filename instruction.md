@@ -22,3 +22,5 @@
 > *git branch [branch_name]* - создали ветку под названием branch_name
 
 > **git checkout <branch_name>** - переход к другой ветке
+
+> *git merge --abort* - отменить слияние, которое прошло с конфликтом
