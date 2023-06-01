@@ -20,3 +20,4 @@
 # Основные команды 2-го семинара
 
 > *git branch [branch_name]* - создали ветку под названием branch_name
+> **git checkout <branch_name>** - переход к другой ветке
