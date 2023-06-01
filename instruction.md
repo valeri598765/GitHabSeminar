@@ -33,3 +33,5 @@ q;lrjwefhkjwehjewj
 
 
 > *git commit -am “message”* – добавление файлов в отслеживание и       создание коммита.
+
+> **git log --oneline** – коротенький журнал
