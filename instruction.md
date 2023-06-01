@@ -38,8 +38,4 @@ q;lrjwefhkjwehjewj
 
 > *git commit -am “message”* – добавление файлов в отслеживание и       создание коммита.
 
-<<<<<<< HEAD
 > *git branch -d <название ветки>* – удалить ветку
-=======
-> **git log --oneline** – коротенький журнал
->>>>>>> creating_branch
