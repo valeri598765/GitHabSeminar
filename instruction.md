@@ -22,5 +22,3 @@
 > *git branch [branch_name]* - создали ветку под названием branch_name
 
 > **git checkout** <creating_branch> – переход к другой ветке
-
-> **git branch -d**<название ветки> – удалить ветку
