@@ -25,4 +25,8 @@
 
 > **git log --oneline** – коротенький журнал
 
+<<<<<<< HEAD
 > **git branch** – посмотреть список веток в репозитории
+=======
+q;lrjwefhkjwehjewj
+>>>>>>> creating_branch
